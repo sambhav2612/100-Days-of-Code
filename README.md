@@ -1,6 +1,6 @@
 # 100-Days-of-Code
 #### Overview
-Participation index of my work in #[100DayOfCode](https://100daysofcode.com)
+Participation index of my work in #[100DaysOfCode](https://100daysofcode.com)
 
 Find the work in ```codes``` folder on ```master```. 
 
