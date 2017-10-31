@@ -4,7 +4,7 @@ Participation index of my work in #[100DayOfCode](https://100daysofcode.com)
 
 Find the work in ```codes``` folder on ```master```. 
 
-[ ] Day 1 : Implement Queue ADT using two Stacks ADTs (C++)     
+[x] Day 1 : Implement a Queue ADT using two Stacks ADTs (C++)     
 [ ] Day 2 : Link SQLite Database with ```.class``` files in Android (Java)     
 ...
 
