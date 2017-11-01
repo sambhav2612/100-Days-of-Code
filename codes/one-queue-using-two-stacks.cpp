@@ -61,10 +61,7 @@ int list::pop() {
 	data = ptr->data;
 	
 	delete ptr;
-	if (ptr) {
-		ptr = NULL;
-	}
-	
+		
 	return data;
 } 
 
