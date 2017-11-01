@@ -7,7 +7,7 @@ Participation index of my work in #[100DaysOfCode](https://100daysofcode.com) Ch
 You can find my work in ```codes``` folder on ```master``` branch.
 
 - [x] Day 1: Implement a Queue ADT using two Stacks ADTs (C++)   
-- [ ] Day 2: Check for is a given String is palindrome (C++)
+- [ ] Day 2: Check for if a given String is palindrome (C++)
 - [ ] Day 3: Reverse a Queue using only it's ADT (C++)
 - [ ] Day 4: Link SQLite Database with ```.class``` files in Android (Java)   
 - [ ] Day 5: Implement IPC Shared Memory in Linux Systems (C)    
