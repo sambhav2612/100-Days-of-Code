@@ -9,7 +9,7 @@ You can find my work in ```codes``` folder on ```master``` branch.
 - [x] Day 1: Implement a Queue ADT using two Stacks ADTs (C++)   
 - [x] Day 2-1: Implement Interpolation Search (C++)
 - [x] Day 2-2: Check for if a given String is palindrome (Java, C++)
-- [ ] Day 2-3: Reverse a Queue using only it's ADT (C++)
+- [x] Day 2-3: Reverse a Queue using only it's ADT (C++)
 - [ ] Day 3: Count all prime numbers upto n (where n is a positive integer | Java, C++)
 - [ ] Day 4: Link SQLite Database with ```.class``` files in Android (Java)   
 - [ ] Day 5: Implement IPC Shared Memory in Linux Systems (C)    
@@ -17,6 +17,6 @@ You can find my work in ```codes``` folder on ```master``` branch.
 - [ ] Day 7: Simulate Page Allocation Algorithms (C)   
 ...
 
-Feel free to submit any issue for any bug/enhancement you found and let me know via a PR. I'll approve and merge your changes in no-time. 
+Read the guidelines in ```CONTRIBUTING.md``` on ```master``` and feel free to submit any issue for any bug/enhancement you found and let me know via a PR. I'll approve and merge your changes in no-time. 
 
 Thanks for stopping by!
