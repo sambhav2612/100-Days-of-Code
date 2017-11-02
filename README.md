@@ -1,6 +1,4 @@
 # 100-Days-of-Code
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6f7d66330faa4ccf8c01323922131403)](https://www.codacy.com/app/sambhavjain2612/100-Days-of-Code?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sambhav2612/100-Days-of-Code&amp;utm_campaign=Badge_Grade)
-[![BCH compliance](https://bettercodehub.com/edge/badge/sambhav2612/100-Days-of-Code?branch=master)](https://bettercodehub.com/)   
 
 Participation index of my work in #[100DaysOfCode](https://100daysofcode.com) Challenge.
 
