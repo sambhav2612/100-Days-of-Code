@@ -10,12 +10,12 @@ You can find my work in ```codes``` folder on ```master``` branch.
 - [x] Day 2-1: Implement Interpolation Search (C++)
 - [x] Day 2-2: Check for if a given String is palindrome (Java, C++)
 - [x] Day 2-3: Reverse a Queue using only it's ADT (C++)
-- [ ] Day 3-1: Count all prime numbers upto n (where n is a positive integer | Java, C++)
-- [ ] Day 3-2: Implement Page Allocation Algorithms (C)
-- [ ] Day 4: Link SQLite Database with ```.class``` files in Android (Java)   
-- [ ] Day 5: Implement IPC Shared Memory in Linux Systems (C)    
-- [ ] Day 6: Implement Stop and Wait Algorithm (Networking/C++)   
-- [ ] Day 7: Build the final Twitter Bot v3.0 (with NodeJS)
+- [ ] Day 3: Count all prime numbers upto n (where n is a positive integer | Java, C++)
+- [ ] Day 4: Implement Page Allocation Algorithms (C)
+- [ ] Day 5: Link SQLite Database with ```.class``` files in Android (Java)   
+- [ ] Day 6: Implement IPC Shared Memory in Linux Systems (C)    
+- [ ] Day 7: Implement Stop and Wait Algorithm (Networking/C++)   
+- [ ] Day 8: Build the final Twitter Bot v3.0 (with NodeJS)
 ...
 
 Read the guidelines in ```CONTRIBUTING.md``` on ```master``` and feel free to submit any issue for any bug/enhancement you found and let me know via a PR. I'll approve and merge your changes in no-time. 
