@@ -10,7 +10,7 @@ You can find my work in ```codes``` dir on ```master``` branch.
 - [x] Day 2-3 (01/11/2017): Reverse a Queue using only it's ADT (C++)
 - [x] Day 3 (02/11/2017): Count all prime numbers upto n (where n is a positive integer | Java, C++)
 - [x] Day 4 (03/11/2017): Start learning [Golang](https://github.com/sambhav2612/golang) 
-- [x] Day 5-1 (04/11/2017): Show the working of Bitwise Shift Operator (Kotlin)
+- [x] Day 5-1 (04/11/2017): Show the working of Bitwise Shift Operators (Kotlin)
 - [ ] Day 5-2 (04/11/2017): Implement Page Allocation Algorithms (C)
 - [ ] Day 6: Link SQLite Database with ```.class``` files in Android (Java)   
 - [ ] Day 7: Implement IPC Shared Memory in Linux Systems (C)    
