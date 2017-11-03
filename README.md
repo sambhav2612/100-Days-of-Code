@@ -2,7 +2,7 @@
 
 Participation index of my work in #[100DaysOfCode](https://100daysofcode.com) Challenge.
 
-You can find my work in ```codes``` folder on ```master``` branch.
+You can find my work in ```codes``` dir on ```master``` branch.
 
 - [x] Day 1 (31/10/2017):  Implement a Queue ADT using two Stacks ADTs (C++)   
 - [x] Day 2-1 (01/11/2017): Implement Interpolation Search (C++)
@@ -17,6 +17,6 @@ You can find my work in ```codes``` folder on ```master``` branch.
 - [ ] Day 9: Build the final Twitter Bot v3.0 (with NodeJS)
 ...
 
-Read the guidelines in ```CONTRIBUTING.md``` on ```master``` and feel free to submit any issue for any bug/enhancement you found and let me know via a PR. I'll approve and merge your changes in no-time. 
+Read the guidelines in ```CONTRIBUTING.md``` inside ```.github``` dir on ```master``` and feel free to submit any issue for any bug/enhancement you found and let me know via a PR. I'll approve and merge your changes in no-time. 
 
 Thanks for stopping by!
