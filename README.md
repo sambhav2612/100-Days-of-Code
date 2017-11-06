@@ -12,11 +12,12 @@ You can find my work in ```codes``` dir on ```master``` branch.
 - [x] Day 4 (03/11/2017): Start learning [Golang](https://github.com/sambhav2612/golang) 
 - [x] Day 5-1 (04/11/2017): Show the working of Bitwise Shift Operators (Kotlin)
 - [x] Day 5-2 (04/11/2017): Continue learning Golang 
-- [x] Day 6: (05/11/2017): Implement Page Allocation Algorithms (C)
-- [ ] Day 7: Link SQLite Database with ```.class``` files in Android (Java)   
-- [ ] Day 8: Implement IPC Shared Memory in Linux Systems (C)    
-- [ ] Day 9: Implement Stop and Wait Algorithm (C++)   
-- [ ] Day 10: Build the final Twitter Bot v3.0 (with NodeJS)
+- [x] Day 6 (05/11/2017 on 06/11/2017): Implement Page Allocation Algorithms (C)
+- [ ] Day 7 (06/11/2017): Various Sorting Algorithms in Golang
+- [ ] Day 8: Link SQLite Database with ```.class``` files in Android (Java)   
+- [ ] Day 9: Implement IPC Shared Memory in Linux Systems (C)    
+- [ ] Day 10: Implement Stop and Wait Algorithm (C++)   
+- [ ] Day 12: Build the final Twitter Bot v3.0 (with NodeJS)
 ...
 
 Read the guidelines in ```CONTRIBUTING.md``` inside ```.github``` dir on ```master``` and feel free to submit any issue for any bug/enhancement you found and let me know via a PR. I'll approve and merge your changes in no-time. 
