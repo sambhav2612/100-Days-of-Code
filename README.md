@@ -11,11 +11,11 @@ You can find my work in ```codes``` dir on ```master``` branch.
 - [x] Day 3 (02/11/2017): Count all prime numbers upto n (where n is a positive integer | Java, C++)
 - [x] Day 4 (03/11/2017): Start learning [Golang](https://github.com/sambhav2612/golang) 
 - [x] Day 5-1 (04/11/2017): Show the working of Bitwise Shift Operators (Kotlin)
-- [x] Day 5-2 (04/11/2017): Continue learning Golang 
+- [x] Day 5-2 (04/11/2017): Complete module-1 of tour of Go 
 - [x] Day 6 (05/11/2017 on 06/11/2017): Implement Page Allocation Algorithms (C)
 - [x] Day 7 (06/11/2017): Implement IPC Shared Memory in Linux Systems (C)
 - [x] Day 8 (07/112017): Implement Stop and Wait Algorithm (C++)
-- [x] Day 9(08/11/2017): Rebuild/update the old android apps for new libraries (Java)   
+- [x] Day 9 (08/11/2017): Complete module-2 of tour of Go  
 - [x] Day 10 (09/11/2017): Complete module-3 of tour of Go
 - [ ] Day 11: Link SQLite Database with ```.class``` files in Android (Java)   
 - [ ] Day 12: Build the final Twitter Bot v3.0 (with NodeJS)
